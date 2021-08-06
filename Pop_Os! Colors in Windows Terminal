@@ -1,0 +1,24 @@
+
+        {
+            "background": "#333333",
+            "black": "#333333",
+            "blue": "#3465A4",
+            "brightBlack": "#88807C",
+            "brightBlue": "#48B9C7",
+            "brightCyan": "#34E2E2",
+            "brightGreen": "#73C48F",
+            "brightPurple": "#AD7FA8",
+            "brightRed": "#F15D22",
+            "brightWhite": "#EEEEEE",
+            "brightYellow": "#FFCE51",
+            "cursorColor": "#F6F6F6",
+            "cyan": "#06989A",
+            "foreground": "#F2F2F2",
+            "green": "#4E9A06",
+            "name": "Pop_os",
+            "purple": "#75507B",
+            "red": "#CC0000",
+            "selectionBackground": "#48B9C7",
+            "white": "#B5BBAE",
+            "yellow": "#C4A000"
+        }
